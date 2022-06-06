@@ -1,10 +1,8 @@
 <h1 align="center">I'm Mohammad Obaidullah Bin Taher</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<hr><hr>
+<hr>
 
-![A passionate Full Stack developer from Bangladesh](https://scontent.fdac37-1.fna.fbcdn.net/v/t1.6435-9/84657063_2504986216410534_7646179510831808512_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeG9_IwRtVPJHXcdIaUWmOFqnVWpeNgG2-qdVal42Abb6u-1U5hSow1zY9SZHJqtqdNSTMpGtP_9B0Uuyx6xCplx&_nc_ohc=u1me4XC6hQkAX-4FQ8t&_nc_ht=scontent.fdac37-1.fna&oh=00_AT8pHbVSJYFGqKBwv55pgh-Ij7d1zzqr7XrK0StskB9Exw&oe=6216F0DA)
-
-If you are looking for a developer who is optimistic, helpful and a quick-thinker then look no further. I have extensive experience in developing small apps to major managerial applications to suit the needs of managers or administrators. In addition to these abilities, I am also proficient in meeting deadline targets and client meetings.
+I called myself as a developer who is optimistic, helpful and a quick-thinker then look no further. I have extensive experience in developing small apps to major managerial applications to suit the needs of managers or administrators. In addition to these abilities, I am also proficient in meeting deadline targets and client meetings.
 
 Furthermore, I have experience in teaching and helping fellow mates. I have supervised teams in the university as a teacher assistant and welcomed new students with open arms and aided them to adapt to the university's workflow.
 
