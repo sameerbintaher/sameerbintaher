@@ -9,7 +9,9 @@ Furthermore, I have experience in teaching and helping fellow mates. I have supe
 Skills:  REACT / JavaScript / HTML / CSS / Bootstrap / Node JS / Express / MongoDB
 
 - 🔭 I’m currently working on MERN Stack Project 
-- 🌱 I’m currently learning JavaScript Framework 
+- 🌱 I’m currently learning JavaScript Framework
+- 🌱 I’m currently learning C, Data Structure and Algortihm
+- I'm very much passionate on problem solving
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web application development 
 - ⚡ Fun fact: Spent more sleepless night 
