@@ -12,7 +12,6 @@ Skills:  REACT / JavaScript / HTML / CSS / Bootstrap / Node JS / Express / Mongo
 - I’m currently learning JavaScript Framework
 - I’m currently learning C, Data Structure and Algortihm
 - I'm very much passionate on problem solving
-- I’m looking to collaborate on Github 
 - Ask me about Web application development 
 - Fun fact: Spent more sleepless night 
 
