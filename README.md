@@ -8,13 +8,13 @@ Furthermore, I have experience in teaching and helping fellow mates. I have supe
 
 Skills:  REACT / JavaScript / HTML / CSS / Bootstrap / Node JS / Express / MongoDB
 
-- 🔭 I’m currently working on MERN Stack Project 
-- 🌱 I’m currently learning JavaScript Framework
-- 🌱 I’m currently learning C, Data Structure and Algortihm
+- I’m currently working on MERN Stack Project 
+- I’m currently learning JavaScript Framework
+- I’m currently learning C, Data Structure and Algortihm
 - I'm very much passionate on problem solving
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web application development 
-- ⚡ Fun fact: Spent more sleepless night 
+- I’m looking to collaborate on Github 
+- Ask me about Web application development 
+- Fun fact: Spent more sleepless night 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sameerbintaher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sameerbintaher/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sameerbintaher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sameerbintaher/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sameerbintaher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sameerbintaher.netlify.app)  
