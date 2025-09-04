@@ -1,23 +1,58 @@
-<h1 align="center">I'm Mohammad Obaidullah Bin Taher</h1>
-<h3 align="center">A passionate dreamer and want to do something in Programming.</h3>
-<hr>
+# 👋 Hi, I'm Md Obaidullah Bin Taher (Sameer)
 
-I am a seasoned developer known for my proficiency in crafting diverse applications, ranging from small-scale utilities to comprehensive managerial systems tailored to meet the specific requisites of administrators and managers. My expertise encompasses a spectrum of technologies including **C, C++, Python, REACT, JavaScript, HTML, CSS, Bootstrap, Node.js, Express, and MongoDB.**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff)
 
-My current focus revolves around an ongoing **MERN Stack Project**, wherein I am actively engaged in studying advanced JavaScript frameworks. Concurrently, I am deeply involved in enhancing my knowledge in C programming, Data Structures, and Algorithms. My enthusiasm lies in problem-solving, and I am passionate about leveraging my skills to overcome complex challenges.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sameerbintaher-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sameerbintaher)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sameerbintaher.me-orange?style=for-the-badge)](https://sameerbintaher.me/)
+[![Email](https://img.shields.io/badge/Email-sameerbintaher%40gmail.com-red?style=for-the-badge)](mailto:sameerbintaher@gmail.com)
 
-In **computer vision**, my primary research centers on burst image restoration. I specialize in refining algorithms to enhance sequences of rapidly captured images, overcoming challenges like noise and blur. By leveraging advanced techniques, I aim to create superior-quality single images from bursts, with potential applications spanning consumer photography to critical fields like medical imaging and surveillance. My focus lies in pushing the boundaries of image reconstruction, contributing to robust algorithms at the intersection of computer vision, signal processing, and machine learning.
+I am a **Computer Science & Technology graduate** from **Tiangong University, China**, passionate about **software development, AI/ML, and full-stack web development**. I enjoy **learning new technologies, solving complex problems, and building systems that make life easier**.  
 
-Furthermore, I have experience in teaching and helping fellow mates. I have supervised teams in the university as a teacher assistant welcomed new students with open arms and aided them to adapt to the university's workflow.
- 
-- I'm working on the MERN Stack Project 
-- Studying JavaScript Framework 
-- Learning C, Data Structures, and Algorithm 
-- I'm passionate about solving problems
-- Ask me about Web application development 
-- Fun fact: Spent more sleepless night
+---
 
+## 🛠️ My Toolbox
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sameerbintaher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sameerbintaher/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sameerbintaher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sameerbintaher/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sameerbintaher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sameerbintaher.netlify.app)  
+**Languages & Frameworks:**  
+Python 🐍 | C++ 💻 | JavaScript ⚡ | React ⚛️ | Next.js | Django | Flask  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+**Databases & Tools:**  
+MongoDB | SQLite | MySQL | Git | GitHub | VS Code | Cursor IDE | MATLAB | AutoCAD  
+
+**Other Skills:**  
+Data Structures & Algorithms | Web Development | Computer Vision | Image Processing | Fabric Analysis & Quality Control  
+
+---
+
+## 🌱 What I'm Learning
+
+- Advanced **Computer Vision & Image Quality Assessment**  
+- **Korean Language** 🗣️  
+- Full-Stack Development using **Next.js + Django**  
+
+---
+
+## 🏆 Achievements & Highlights
+
+- **CSC Scholarship Recipient** (2023)  
+- **Shanghai-Lingang Cup AI Global Innovation Competition**  
+- **Best Student & Dormitory Awards** at Tiangong University  
+- **HackerRank Certifications:** JavaScript (Intermediate), Python (Basic), Problem Solving (Intermediate & Basic)  
+
+---
+
+## ⚡ Fun Facts About Me
+
+- I love combining **technology with creativity** ✨  
+- Always exploring **ways to automate daily tasks** 🤖  
+- A **team player** who loves organizing events & helping others succeed 🎉  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerbintaher&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerbintaher&layout=compact&theme=radical)
+
+---
+
+> “Strive not to be a success, but rather to be of value.” – Albert Einstein
