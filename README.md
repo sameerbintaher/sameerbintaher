@@ -79,7 +79,7 @@ me.say_hi()
 | 🎯 Focus Area | 📚 Learning | 🔥 Status |
 |:-------------:|:-----------:|:---------:|
 | **Computer Vision & AI** | Advanced Image Quality Assessment | 🚀 Active |
-| **Language Skills** | Korean Language 🇰🇷 | 📈 Progressing |
+| **Language Skills** | English and Chinese | 📈 Progressing |
 | **Full-Stack Development** | Next.js + Django Integration | 💡 Building |
 | **Open Source** | Contributing to ML Projects | 🌱 Growing |
 
